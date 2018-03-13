@@ -3,7 +3,6 @@ layout: post
 title:  "TDK - The Blog"
 date:   2018-03-13 11:57:00 +1000
 categories: jekyll theme
-location: Santa Cruz de Tenerife, Spain
 ---
  
 Third Dyslexic Kid (TDK) is a blog, sometimes a confession booth, by a serial chronic procrastinator who needs to figure his shit out. 
