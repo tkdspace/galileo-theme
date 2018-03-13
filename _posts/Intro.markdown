@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "TDK - The Blog"
+date:   2018-03-13 11:57:00 +1000
+categories: jekyll theme
+location: Santa Cruz de Tenerife, Spain
+---
+ 
+Third Dyslexic Kid (TDK) is a blog, sometimes a confession booth, by a serial chronic procrastinator who needs to figure his shit out. 
+
+The name of this blog is a dyslexic bastardisation of the term Third Culture Kid (TCK), which refers to children of immigrants who spent their formative years in a country that is not their parents' homeland. They form a third culture, a result of the amalgamation of their home life and the outside world. TCK usually speak more than one language, supposedly have a broader worldview and are more culturally aware: which is bullshit speak for "grew up in another country". A non-rosy effect of being a TCK is that you feel like you don't belong anywhere, no roots or a place to call home. There's a nagging feeling that you're different (in a bad way) and your parents are either pushing you too hard or making excuses for your lack of achievements. 
+
+If you are reading this, please forgive me and enjoy the ride. My hopes for this blog is to try to understand why I procrastinate so so much, to explore some of the negatives of being a TCK, and hopefully, to better understand why I do what I do. 
+
+Thanks for reading,
+
+TDK
