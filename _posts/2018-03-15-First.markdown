@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "TDK - The Kid"
+date:   2018-03-13 11:57:00 +1000
+categories: jekyll theme
+---
 
 Let's begin at the start, like every personal story. My father was a university lecturer, who had decided his homeland was about to explode (literally). He was spot on, not a couple of few years after leaving the country went to war. It was without a shadow of a doubt the best thing he did for his family. The life he has given us in the western world is far far better than what we could have had in the “motherland”. 
 
